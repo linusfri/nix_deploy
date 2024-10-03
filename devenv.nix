@@ -19,6 +19,7 @@ in
     packages = [
       pkgs.openssl.dev
       pkgs.cargo-watch
+      pkgs.gh
     ];
 
 
