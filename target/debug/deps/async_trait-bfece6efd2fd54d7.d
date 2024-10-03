@@ -1,0 +1,12 @@
+/home/linus/projects/rust/nix_deploy/target/debug/deps/libasync_trait-bfece6efd2fd54d7.so: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs
+
+/home/linus/projects/rust/nix_deploy/target/debug/deps/async_trait-bfece6efd2fd54d7.d: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs
+
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs:

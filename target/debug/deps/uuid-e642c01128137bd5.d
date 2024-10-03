@@ -1,0 +1,14 @@
+/home/linus/projects/rust/nix_deploy/target/debug/deps/libuuid-e642c01128137bd5.rmeta: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/home/linus/projects/rust/nix_deploy/target/debug/deps/uuid-e642c01128137bd5.d: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs:

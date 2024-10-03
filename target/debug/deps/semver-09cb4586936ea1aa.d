@@ -1,0 +1,13 @@
+/home/linus/projects/rust/nix_deploy/target/debug/deps/libsemver-09cb4586936ea1aa.rmeta: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/serde.rs
+
+/home/linus/projects/rust/nix_deploy/target/debug/deps/semver-09cb4586936ea1aa.d: /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs /home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/serde.rs
+
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs:
+/home/linus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/serde.rs:
